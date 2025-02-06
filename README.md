@@ -3,7 +3,9 @@
  ### [YouTube Demonstration](https://www.youtube.com/@ReaperSec-y7l)
 
 ## Objective
-[Brief Objective - Remove this afterwards]
+
+To design and implement a Small Office Home Office (SOHO) network for XYZ company's new branch in Bonalbo, we'll follow the requirements and implement the specified technologies. The detailed plan for the network setup can be found in :
+
 
 
 
