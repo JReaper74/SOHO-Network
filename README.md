@@ -4,10 +4,14 @@
 
 ## Objective
 
-To design and implement a Small Office Home Office (SOHO) network for XYZ company's new branch in Bonalbo, we'll follow the requirements and implement the specified technologies. The detailed plan for the network setup can be found in :
+To design and implement a Small Office Home Office (SOHO) network for XYZ company's new branch in Bonalbo, we'll follow the requirements and implement the specified technologies. Project Details can be found in the files.
 
-
-
+Design a SOHO network for XYZ company's new branch with:
+- 3 department VLANs
+- Wireless connectivity
+- Automatic IP addressing
+- Inter-department communication
+- Cisco router and switch infrastructure
 
 ### Skills Learned
 - Creating a Simple Network using a Router and Access Layer Switch.
@@ -22,7 +26,7 @@ To design and implement a Small Office Home Office (SOHO) network for XYZ compan
 
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
+
 - Packet Tracer
 
 ## Walk-through
